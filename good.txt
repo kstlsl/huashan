@@ -6,3 +6,6 @@ add a line by brothor
 modify content by date20140815 on 20190227 1258
 
 test ssh commit add 16:34
+
+
+模拟在分支修复bug
